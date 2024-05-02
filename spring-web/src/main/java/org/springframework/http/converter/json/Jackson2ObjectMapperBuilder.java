@@ -92,7 +92,7 @@ import org.springframework.util.xml.StaxUtils;
  * @author Sebastien Deleuze
  * @author Juergen Hoeller
  * @author Tadaya Tsuyukubo
- * @author Eddú Meléndez
+ * @author Eddu Melendez
  * @since 4.1.1
  * @see #build()
  * @see #configure(ObjectMapper)

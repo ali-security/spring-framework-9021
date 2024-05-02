@@ -41,7 +41,7 @@ import static org.mockito.Mockito.*;
  * Unit tests for {@link ForwardedHeaderFilter}.
  *
  * @author Rossen Stoyanchev
- * @author Eddú Meléndez
+ * @author Eddu Melendez
  * @author Rob Winch
  */
 public class ForwardedHeaderFilterTests {

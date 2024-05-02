@@ -58,7 +58,7 @@ import org.springframework.web.util.UrlPathHelper;
  * where "Forwarded" and "X-Forwarded-*" headers are eliminated, and not used.
  *
  * @author Rossen Stoyanchev
- * @author Eddú Meléndez
+ * @author Eddu Melendez
  * @author Rob Winch
  * @since 4.3
  * @see <a href="https://tools.ietf.org/html/rfc7239">https://tools.ietf.org/html/rfc7239</a>

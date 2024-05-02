@@ -61,7 +61,7 @@ import org.springframework.util.StringUtils;
  *
  * @author Rod Johnson
  * @author Juergen Hoeller
- * @author Stéphane Nicoll
+ * @author Stephane Nicoll
  * @author Sam Brannen
  * @since 1.1
  * @see #setTransactionManager

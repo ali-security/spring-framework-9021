@@ -89,7 +89,7 @@ import static org.junit.Assert.assertTrue;
  * Test class for {@link Jackson2ObjectMapperBuilder}.
  *
  * @author Sebastien Deleuze
- * @author Eddú Meléndez
+ * @author Eddu Melendez
  */
 @SuppressWarnings("deprecation")
 public class Jackson2ObjectMapperBuilderTests {
